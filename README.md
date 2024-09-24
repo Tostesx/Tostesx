@@ -1,11 +1,14 @@
-- 👋 Hi, I’m @Tostesx
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Projects/system development/game creation, among others...
-- 📫 How to reach me
-  - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-tostes/)
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: I'm RPG gamer and Guitarrist
+<details>
+    <sumary>about me<sumary>
+    - 👋 Hi, I’m @Tostesx
+    - 👀 I’m interested in Programming
+    - 🌱 I’m currently learning Java
+    - 💞️ I’m looking to collaborate on Projects/system development/game creation, among others...
+    - 📫 How to reach me
+    - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-tostes/)
+    - 😄 Pronouns: He/him
+    - ⚡ Fun fact: I'm RPG gamer and Guitarrist
+<details>
 
 <hr>
 
