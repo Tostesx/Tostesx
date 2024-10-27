@@ -16,14 +16,16 @@
     <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python" style="width: 80px;"/>
   </a>
 </div>
+<div>
   - 🦾 I’m looking to collaborate on Projects/system development/game creation, among others...
   - 🛸 How to reach me <a href="https://www.linkedin.com/in/matheus-tostes/" style="flex: 1; text-align: center;">
     <img src="https://img.icons8.com/?size=100&id=ZADJgisVhP37&format=png&color=000000" alt="Python" style="width: 80px;"/>
   </a>
+  
   - ⚡ Fun fact: I'm an RPG gamer and <a href="https://youtu.be/3Eb9Yh7kbLo" style="flex: 1; text-align: center;">
     <img src="https://img.icons8.com/?size=100&id=12203&format=png&color=000000" alt="Python" style="width: 80px;"/>
   </a>
-
+</div>
   ## 🌌 Main projects:
   - [My Java Projects](https://github.com/Tostesx/Meus-Projetos-Java)
   - [My Python Projects](https://github.com/Tostesx/Projetos-em-Python)
