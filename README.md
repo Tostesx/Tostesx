@@ -16,7 +16,7 @@
     <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python" style="width: 80px;"/>
   </a>
 </div>
-<div>
+<div align="center">
   - 🦾 I’m looking to collaborate on Projects/system development/game creation, among others...
   - 🛸 How to reach me <a href="https://www.linkedin.com/in/matheus-tostes/" style="flex: 1; text-align: center;">
     <img src="https://img.icons8.com/?size=100&id=ZADJgisVhP37&format=png&color=000000" alt="Python" style="width: 80px;"/>
