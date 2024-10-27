@@ -1,4 +1,4 @@
-<img src = "[https://cdn.leonardo.ai/users/4ca3dbe5-820e-447b-aecc-ffb603540e48/generations/4d7437d2-084e-46f9-9764-b5a733d2007d/Lifelike_Vision_sailor_frog_2.jpg](https://cdn.leonardo.ai/users/752549e6-20a5-4eeb-89a8-24592c43f25f/generations/8a0deb73-8e00-4edc-ac0d-0e3a888721e6/Leonardo_Lightning_XL_A_pixelated_retro_16bit_style_logo_of_th_3.jpg)" />
+<img src = "https://cdn.leonardo.ai/users/752549e6-20a5-4eeb-89a8-24592c43f25f/generations/8a0deb73-8e00-4edc-ac0d-0e3a888721e6/Leonardo_Lightning_XL_A_pixelated_retro_16bit_style_logo_of_th_3.jpg" />
 
 - 👋 Hi, I’m @Tostesx
 - 💻 My goal is to become a back-end developer
