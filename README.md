@@ -39,6 +39,12 @@
 
   ## 🌌 Main projects:
   
-   [My Java Projects](https://github.com/Tostesx/Meus-Projetos-Java)
-   [My Python Projects](https://github.com/Tostesx/Projetos-em-Python)
+  <div style="display: flex; justify-content: center;">
+    <a href="https://github.com/Tostesx/Meus-Projetos-Java" style="flex: 1; text-align: center;">
+      <img src="https://img.icons8.com/?size=100&id=46630&format=png&color=000000" alt="Java" style="width: 60px;"/>
+    </a>
+    <a href="https://github.com/Tostesx/Projetos-em-Python" style="flex: 1; text-align: center;">
+      <img src="https://img.icons8.com/?size=100&id=pIJdjOoL6KfU&format=png&color=000000" alt="Python" style="width: 60px;"/>
+    </a>
+  </div>
 </div>
