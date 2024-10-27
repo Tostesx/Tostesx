@@ -4,7 +4,18 @@
   # 🖖 Hi, I’m @Tostesx
   
   - 💻 My goal is to become a Back-end developer
-  - ⚙️ I’m currently learning Java
+  - ⚙️ I’m currently learning:
+<div align="display: flex; justify-content: center;"> 
+  <a href="https://www.java.com/pt-BR/">
+    <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="Java" width="100"/>
+  </a>
+  <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/">
+    <img src="https://img.icons8.com/?size=100&id=55251&format=png&color=000000" alt="C#" width="100"/>
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python" width="100"/>
+  </a>
+</div>
   - 🦾 I’m looking to collaborate on Projects/system development/game creation, among others...
   - 🛸 How to reach me [LinkedIn](https://www.linkedin.com/in/matheus-tostes/)
   - 😄 Pronouns: He/him
