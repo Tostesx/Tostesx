@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://cdn.leonardo.ai/users/752549e6-20a5-4eeb-89a8-24592c43f25f/generations/8a0deb73-8e00-4edc-ac0d-0e3a888721e6/Leonardo_Lightning_XL_A_pixelated_retro_16bit_style_logo_of_th_3.jpg" width="100%" style="opacity: 0.5" alt="Logo">
 
-  # 🖖 Hi, I’m @Tostesx
+  # 🖖 Hi, I’m Matheus Soares Tostes
   
    💻 My goal is to become a Back-end developer
    ⚙️ I’m currently learning:
@@ -30,11 +30,9 @@
   
    
    
-   ⚡ Fun fact: I'm an RPG gamer and 
-   
-   <a href="https://youtu.be/3Eb9Yh7kbLo" style="flex: 1; text-align: center;">
-    <img src="https://img.icons8.com/?size=100&id=12203&format=png&color=000000" alt="Python" style="width: 40px;"/>
-  </a>
+   ⚡ Fun fact: I'm an RPG gamer and <a href="https://youtu.be/3Eb9Yh7kbLo" style="flex: 1; text-align: center;">
+                                          <img src="https://img.icons8.com/?size=100&id=12203&format=png&color=000000" alt="Python" style="width: 30px;"/>
+                                      </a>
 </div>
 
   ## 🌌 Main projects:
