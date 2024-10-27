@@ -7,13 +7,13 @@
   - ⚙️ I’m currently learning:
 <div style="display: flex; justify-content: center;">
   <a href="https://www.java.com/pt-BR/" style="flex: 1; text-align: center;">
-    <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="Java" style="width: 50%;"/>
+    <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="Java" style="width: 100px;"/>
   </a>
   <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" style="flex: 1; text-align: center;">
-    <img src="https://img.icons8.com/?size=100&id=55251&format=png&color=000000" alt="C#" style="width: 50%;"/>
+    <img src="https://img.icons8.com/?size=100&id=55251&format=png&color=000000" alt="C#" style="width: 100px;"/>
   </a>
   <a href="https://www.python.org/" style="flex: 1; text-align: center;">
-    <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python" style="width: 50%;"/>
+    <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python" style="width: 100px;"/>
   </a>
 </div>
   - 🦾 I’m looking to collaborate on Projects/system development/game creation, among others...
