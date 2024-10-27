@@ -6,13 +6,13 @@
    💻 My goal is to become a Back-end developer
    ⚙️ I’m currently learning:
 <div style="display: flex; justify-content: center;">
-  <a href="https://www.java.com/pt-BR/" style="flex: 1; text-align: center;">
+  <a href="https://www.java.com/pt-BR/" target="_blank" style="flex: 1; text-align: center;">
     <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="Java" style="width: 80px;"/>
   </a>
-  <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" style="flex: 1; text-align: center;">
+  <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank" style="flex: 1; text-align: center;">
     <img src="https://img.icons8.com/?size=100&id=55251&format=png&color=000000" alt="C#" style="width: 80px;"/>
   </a>
-  <a href="https://www.python.org/" style="flex: 1; text-align: center;">
+  <a href="https://www.python.org/" target="_blank" style="flex: 1; text-align: center;">
     <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python" style="width: 80px;"/>
   </a>
 </div>
@@ -24,13 +24,13 @@
   
   🛸 How to reach me:
   
-  <a href="https://www.linkedin.com/in/matheus-tostes/" style="flex: 1; text-align: center;">
+  <a href="https://www.linkedin.com/in/matheus-tostes/" target="_blank" style="flex: 1; text-align: center;">
     <img src="https://img.icons8.com/?size=100&id=ZADJgisVhP37&format=png&color=000000" alt="Python" style="width: 40px;"/>
   </a>
   
    
    
-   ⚡ Fun fact: I'm an RPG gamer and <a href="https://youtu.be/3Eb9Yh7kbLo" style="flex: 1; text-align: center;">
+   ⚡ Fun fact: I'm an RPG gamer and <a href="https://youtu.be/3Eb9Yh7kbLo" target="_blank" style="flex: 1; text-align: center;">
                                           <img src="https://img.icons8.com/?size=100&id=12203&format=png&color=000000" alt="Python" style="width: 30px;"/>
                                       </a>
 </div>
@@ -38,10 +38,10 @@
   ## 🌌 Main projects:
   
   <div style="display: flex; justify-content: center;">
-    <a href="https://github.com/Tostesx/Meus-Projetos-Java" style="flex: 1; text-align: center;">
+    <a href="https://github.com/Tostesx/Meus-Projetos-Java" target="_blank" style="flex: 1; text-align: center;">
       <img src="https://img.icons8.com/?size=100&id=46630&format=png&color=000000" alt="Java" style="width: 60px;"/>
     </a>
-    <a href="https://github.com/Tostesx/Projetos-em-Python" style="flex: 1; text-align: center;">
+    <a href="https://github.com/Tostesx/Projetos-em-Python" target="_blank" style="flex: 1; text-align: center;">
       <img src="https://img.icons8.com/?size=100&id=pIJdjOoL6KfU&format=png&color=000000" alt="Python" style="width: 60px;"/>
     </a>
   </div>
