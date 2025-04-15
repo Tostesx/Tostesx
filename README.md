@@ -42,7 +42,7 @@
       <img src="https://img.icons8.com/?size=100&id=46630&format=png&color=000000" alt="Java" style="width: 60px;"/>
     </a>
     <a href="https://github.com/Tostesx/Projetos-PHP" target="_blank" style="flex: 1; text-align: center;">
-      <img src="https://img.icons8.com/?size=100&id=UGYn5TapNioV&format=png&color=000000" alt="Python" style="width: 60px;"/>
+      <img src="https://img.icons8.com/?size=100&id=plPz67QUdeWA&format=png&color=000000" alt="Python" style="width: 60px;"/>
     </a>
     <a href="https://github.com/Tostesx/Projetos-em-Python" target="_blank" style="flex: 1; text-align: center;">
       <img src="https://img.icons8.com/?size=100&id=pIJdjOoL6KfU&format=png&color=000000" alt="Python" style="width: 60px;"/>
