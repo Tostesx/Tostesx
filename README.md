@@ -30,9 +30,10 @@
   
    
    
-   ⚡ Fun fact: I'm an RPG gamer and <a href="https://youtu.be/3Eb9Yh7kbLo" target="_blank" style="flex: 1; text-align: center;">
-                                          <img src="https://img.icons8.com/?size=100&id=12203&format=png&color=000000" alt="Python" style="width: 30px;"/>
+   ⚡ Fun fact: I'm an RPG gamer and <a href="https://youtu.be/3Eb9Yh7kbLo" target="_blank" rel="noopener noreferrer" style="flex: 1; text-align: center;">
+                                          <img src="https://img.icons8.com/?size=100&id=12203&format=png&color=000000" alt="Python" style="width: 30px;" />
                                       </a>
+
 </div>
 
   ## 🌌 Main projects:
