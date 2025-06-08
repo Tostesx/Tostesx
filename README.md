@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.leonardo.ai/users/752549e6-20a5-4eeb-89a8-24592c43f25f/generations/8a0deb73-8e00-4edc-ac0d-0e3a888721e6/Leonardo_Lightning_XL_A_pixelated_retro_16bit_style_logo_of_th_3.jpg" width="100%" style="opacity: 0.5" alt="Logo">
+  <img src="https://cdn.leonardo.ai/users/752549e6-20a5-4eeb-89a8-24592c43f25f/generations/8a0deb73-8e00-4edc-ac0d-0e3a888721e6/Leonardo_Lightning_XL_A_pixelated_retro_16bit_style_logo_of_th_3.jpg" width="100%" style="opacity: 0.5" alt="Logo" style="width: 90px;">
 
   # 🖖 Hi, I’m Matheus Soares Tostes
   
@@ -50,3 +50,23 @@
     </a>
   </div>
 </div>
+<br/>
+<br/>
+
+ <h2 align="center">📊 Statistics 📊</h3>
+<table align="center">
+  <tr>
+    <td>
+      <img
+        alt="Github Stats"
+        src="https://github-readme-stats.vercel.app/api?username=Tostesx&show_icons=true&theme=dracula&include_all_commits=true&"
+      />
+    </td>
+    <td>
+      <img
+        alt="Top Langs"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tostesx&show_icons=true&theme=dracula&layout=compact&langs_count=12"
+      />
+    </td>
+  </tr>
+</table>
