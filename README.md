@@ -53,20 +53,3 @@
 </div>
 
 <br/><br/>
-
-<h2 align="center">📊 Statistics 📊</h2>
-
-<table align="center">
-  <tr>
-    <td>
-      <img
-        alt="Top Langs Updated Automatically"
-        src="./my_top_langs.svg"
-      />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
----
