@@ -3,8 +3,10 @@
 
   # 🖖 Hi, I’m Matheus Soares Tostes
   
-   💻 My goal is to become a Back-end developer  
-   ⚙️ I’m currently learning:
+  💻 My goal is to become a Back-end developer  
+  ⚙️ I’m currently learning:
+</div>
+
 <div style="display: flex; justify-content: center;">
   <a href="https://www.java.com/pt-BR/" target="_blank" style="flex: 1; text-align: center;">
     <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="Java" style="width: 80px;"/>
@@ -17,8 +19,9 @@
   </a>
 </div>
 
+<br/>
+
 <div align="center">
-  
   🦾 I’m looking to collaborate on Projects / Systems / Games  
   🛸 How to reach me:
   
@@ -26,49 +29,44 @@
     <img src="https://img.icons8.com/?size=100&id=ZADJgisVhP37&format=png&color=000000" alt="LinkedIn" style="width: 40px;"/>
   </a>
 
-   ⚡ Fun fact: I'm an RPG gamer 
-   <a href="https://youtu.be/3Eb9Yh7kbLo" target="_blank" rel="noopener noreferrer">
+  <br/><br/>
+  ⚡ Fun fact: I'm an RPG gamer  
+  <a href="https://youtu.be/3Eb9Yh7kbLo" target="_blank" rel="noopener noreferrer">
       <img src="https://img.icons8.com/?size=100&id=12203&format=png&color=000000" alt="Play" style="width: 30px;" />
-   </a>
-
+  </a>
 </div>
 
 ---
 
-  ## 🌌 Main projects:
-  
-  <div style="display: flex; justify-content: center;">
-    <a href="https://github.com/Tostesx/Meus-Projetos-Java" target="_blank" style="flex: 1; text-align: center;">
-      <img src="https://img.icons8.com/?size=100&id=46630&format=png&color=000000" alt="Java" style="width: 60px;"/>
-    </a>
-    <a href="https://github.com/Tostesx/Projetos-PHP" target="_blank" style="flex: 1; text-align: center;">
-      <img src="https://img.icons8.com/?size=100&id=UGYn5TapNioV&format=png&color=000000" alt="PHP" style="width: 60px;"/>
-    </a>
-    <a href="https://github.com/Tostesx/Projetos-em-Python" target="_blank" style="flex: 1; text-align: center;">
-      <img src="https://img.icons8.com/?size=100&id=pIJdjOoL6KfU&format=png&color=000000" alt="Python" style="width: 60px;"/>
-    </a>
-  </div>
+## 🌌 Main projects
 
-<br/>
-<br/>
+<div style="display: flex; justify-content: center;">
+  <a href="https://github.com/Tostesx/Meus-Projetos-Java" target="_blank" style="flex: 1; text-align: center;">
+    <img src="https://img.icons8.com/?size=100&id=46630&format=png&color=000000" alt="Java" style="width: 60px;"/>
+  </a>
+  <a href="https://github.com/Tostesx/Projetos-PHP" target="_blank" style="flex: 1; text-align: center%;">
+    <img src="https://img.icons8.com/?size=100&id=UGYn5TapNioV&format=png&color=000000" alt="PHP" style="width: 60px;"/>
+  </a>
+  <a href="https://github.com/Tostesx/Projetos-em-Python" target="_blank" style="flex: 1; text-align: center%;">
+    <img src="https://img.icons8.com/?size=100&id=pIJdjOoL6KfU&format=png&color=000000" alt="Python" style="width: 60px;"/>
+  </a>
+</div>
 
- <h2 align="center">📊 Statistics 📊</h3>
+<br/><br/>
+
+<h2 align="center">📊 Statistics 📊</h2>
+
 <table align="center">
   <tr>
     <td>
       <img
-        alt="Github Stats"
-        src="https://github-readme-stats.vercel.app/api?username=Tostesx&show_icons=true&theme=dracula&include_all_commits=true&"
+        alt="Top Langs Updated Automatically"
+        src="./my_top_langs.svg"
       />
-    </td>
-    <td>
-      <a href="https://tostesx.github.io/myTopLangs/" target="_blank">
-        <img
-          alt="Top Langs — Click to open full graph"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tostesx&show_icons=true&theme=dracula&layout=compact&langs_count=12"
-        />
-      </a>
     </td>
   </tr>
 </table>
-</div>
+
+<br/>
+
+---
