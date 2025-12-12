@@ -10,15 +10,15 @@
   
   <p align="center">
     <a href="https://www.java.com/pt-BR/" target="_blank">
-      <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="Java" width="80"/>
+      <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="Java" width="90"/>
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.php.net/" target="_blank">
-      <img src="https://img.icons8.com/?size=100&id=plPz67QUdeWA&format=png&color=000000" alt="PHP" width="80"/>
+    <a href="https://spring.io/guides/gs/spring-boot" target="_blank">
+      <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" alt="SpringBoot" width="80"/>
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.python.org/" target="_blank">
-      <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python" width="80"/>
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide" target="_blank">
+      <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="JS" width="80"/>
     </a>
   </p>
 </div>
@@ -54,16 +54,11 @@
 
 <p align="center">
   <a href="https://github.com/Tostesx/Meus-Projetos-Java" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=46630&format=png&color=000000" alt="Java" width="60"/>
+    <img src="https://img.icons8.com/?size=100&id=FBycNmdwUQz1&format=png&color=000000" alt="Java" width="70"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Tostesx/Projetos-PHP" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=UGYn5TapNioV&format=png&color=000000" alt="PHP" width="60"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Tostesx/Projetos-em-Python" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=pIJdjOoL6KfU&format=png&color=000000" alt="Python" width="60"/>
-  </a>
+  <a href="https://github.com/Tostesx/Java-Spring-Boot" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" alt="SpringBoot" width="60"/>
 </p>
 
 <br/><br/>
