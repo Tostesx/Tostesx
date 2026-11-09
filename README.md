@@ -3,7 +3,7 @@
 
   # 🖖 Hi, I'm Matheus Soares Tostes
   
-  💻 My goal is to become a Back-end developer  
+  💻 Back-end developer  
   ⚙️ I'm currently learning:
   
   <br/>
